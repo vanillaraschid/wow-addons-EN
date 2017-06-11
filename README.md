@@ -1,60 +1,70 @@
-# wow-addons-EN<br>
+# wow-addons-DE<br>
 ## Omni Cooldown Count
-Cooldown Count for Everything<br>
+Cooldownanzeige für die Actionbars<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 ## Atlas + AtlasLoot (v1.21.01)+ AtlasQuest (v.3.15.33)
-Instance map browser<br>
-Shows the possible loot from the bosses<br>
-Zeigt die Quests, die es für die jeweiligen Instanzen gibt<br>
+Instanzkarten-Browser<br>
+zeigt den möglichen Loot von Bossen an mit Dropchance<br>
+Zeigt die Quests an, die es für die jeweilige Instanz gibt<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 <br>
 ## Auctioneer v3.9.0.1063
-Dependencies: EnhTooltip, Stubby<br>
- Displays item info and analyzes auction data. Use "/auctioneer scan" at AH to collect auction data.<br>
+benötigt: EnhTooltip, Stubby<br>
+zeigt zusätzliche Informationen im Auktionshaus an (erleichtert das Verkaufen von Items im AH).<br>
+Mit "/auctioneer scan" im AH starten oder im AH-Fenster links die Felder "anhaken" und unten "Scan" drücken.<br>
  <img src="https://image.ibb.co/eNSUvv/auctioneer.jpg" width="300"/>
 ## Bhaldie Recommend Level v2.0
-Displays the zone level range of the zone you are in and also gives you a suggested zone to be in
+Zeigt das Gebietslevel an (von bis) und schlägt Gebiete vor, entsprechend dem aktuellen Level<br>
+<img src="https://image.ibb.co/e9NjVv/bmreclevel1.jpg" width="300"/>
 ## Natur ECB 5.4.8 + CECB_Options
-Shows a replication of your targets cast bar, RaidBossCooldowns and Debuff-Timers like 'Sap', 'Burning Adrenaline' etc.
+Zeigt eine Castbar für das ausgewählte Ziel, Bosse und DebuffTimer an.<br>
+Darin sieht man den Castfortschritt und was gecastet wird.<br>
 ## CT_MailMod 1.44
-Allows you to send multiple mails to the same person<br>
+Verbesserter Briefkasten (z.B. mehrere Mails an eine Person)<br>
 <img src="https://image.ibb.co/g3XJoF/ct_mailmod1.jpg" width="300"/> <img src="https://image.ibb.co/mz4nha/ct_mailmod2.jpg" width="300"/>
 ## Cartographer 2.0
-Addon to manipulate the map<br>
+zusätzliche Funktionen für die Weltkarten (z.B. Instanzen, Notizen, Fog of War deaktivieren etc.)<br>
+<img src="https://image.ibb.co/mWiDOF/cartographer02.jpg" width="300"/><img src="https://image.ibb.co/ctnJqv/cartographer01.jpg" width="300"/><img src="https://image.ibb.co/cxQ4Vv/cartographer03.jpg" width="300"/><img src="https://image.ibb.co/i6FhHa/cartographer04.jpg" width="300"/>
 ##  Classic Snowfall v0.4
-Keydown Cast Support for Vanilla<br>
-## EquipColor v1.0
-Gives a red overlay to unequippable and unlearnable items and colors already known recipes blue-green. Works with Bagnon and OneBag.<br>
+Im Normalfall werden Skills in der Actionbar beim Drücken des Hotkeys erst beim Loslassen des Hotkeys ausgeführt.<br>
+Dieses Addon ändert dies, dass diese schon beim Drücken des Hotkeys ausgeführt werden<br>
 ## EquipCompare v2.9.8
-Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen<br>
+Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (nützlich bei Auswahl von Questbelohnungen)<br>
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
 ## FilterKnown v1.3
-Colors Auction Items that are Already Known<br>
+färbt die Rezepte im Auktionshaus ein, wenn diese schon bekannt sind<br>
+<img src="https://image.ibb.co/cAf7YF/alreadyknown.jpg" width="300"/>
 ## Informant v3.9.0.1000
-Dependencies: EnhTooltip, Stubby<br>
-Displays detailed item information in tooltips, and can produce item reports by binding an information window to a keypress<br>
+benötigt: EnhTooltip, Stubby<br>
+zeigt im Tooltip erweiterte Informationen an (z.B. Verkaufspreis beim Händler)<br>
 <img src="https://image.ibb.co/giUbav/informant.jpg" width="300"/>
 ## MobHealth v3.2 + MobHealth3_BlizzardFrames
-Estimates a mob's health<br>
+Schätzt die HP des Gegners ab (min. 10% Schaden zugefügt) und merkt sich diese<br>
 ## MoveAnything
-test<br>
+Mit diesem Addon lässt sich alles frei auf dem Bildschirm anordnen(Spielerprofil, Ziel etc.)<br>
 <img src="https://image.ibb.co/nok4TF/moveanything.jpg" width="300"/>
 ## Onebag v2.0 + OneBank + OneRing + OneView
 Eine Tasche um sie alle zu beherrschen, und in der Dunkelheit zu binden.<br>
+das ganze Inventar als ein großer Rucksack dargestellt<br>
 <img src="https://image.ibb.co/hobpvv/onebag.jpg" width="300"/>
 ## RangeColor
-Change the icon color when out of range, no mana, etc. Use << /rc >> or << /rangecolor >> for the options menu.<br>
+Ändert die Farbe der Skills/Spells in der Actionbar wenn außer Reichweite und/oder kein Mana etc.<br>
+Optionsmenü mit << /rc >> oder << /rangecolor >> aufrufen.<br>
+<img src="https://image.ibb.co/kMatOF/rangecolor.jpg"/>
 ## ScrollingCombatText (sct) v5.0 + sct_options + sctd v2.0 + sctd_options
-Adds Scrolling Combat Text above your character<br>
+Stellt eigenen Schaden und erlittenen Schaden als "aufpoppende" Zahlen dar<br>
+Unbedingt in den Einstellungen den Kampfeintritt auswählen (sehr hilfreich!)<br>
 <img src="https://image.ibb.co/hw54TF/sct1.jpg" width="300"/>
 ## ShaguQuest + ShaguDB 7.2-deDE
-RequiredDeps: Cartographer<br>
-ShaguDB integration via. EQL3 Extended QuestLog is an extension of the questlog. Choose from different layouts as well as many nice features.<br>
+benötigt: Cartographer<br>
+eine Questhilfe (schlechter als Questie, dieser geht jedoch nicht im deutschen Client)
+mit dabei der EQL3(Extended QuestLog: beliebig viele Quests gleichzeitig verfolgen, standard ist max. 5;Questlevel etc.)<br>
+mit ShaguQuest kann man sich bei der Quest auf der Karte die Punkte der Questmobs/Items anzeigen lassen.<br>
 <img src="https://image.ibb.co/eOJPTF/shaguquest1.jpg" width="300"/>
 ## TinyTip + TinyTipExtras + TinyTipOptions
-Adds reaction coloring, unit class / classification, race, and optionally pvp rank and guild to your tooltip. Default is stuck-to-mouse anchoring. Also ToT info and more. It's what Thrae wants in a tooltip.<br>
+Verbesserte Anzeige der Tooltips: am Mauszeiger beim rüberfahren, farbiger Hintergrund (Klasse, Feind = rot etc.), viel mehr Informationen und alles selbst nach seinen Wünschen einstellbar<br>
 <img src="https://image.ibb.co/nFkSha/tinytip1.jpg" width="300"/><img src="https://image.ibb.co/nJXJoF/tinytip2.jpg"/>
 ## vQueue 1.2.6
-Utility for group finding<br>
+Tool für besseres Gruppen finden<br>
 <img src="https://image.ibb.co/d4kGav/vqueue.jpg" width="300"/>
