@@ -56,6 +56,10 @@ Change the icon color when out of range, no mana, etc. Use << /rc >> or << /rang
 ## ScrollingCombatText (sct) v5.0 + sct_options + sctd v2.0 + sctd_options
 Adds Scrolling Combat Text above your character<br>
 <img src="https://image.ibb.co/hw54TF/sct1.jpg" width="300"/>
+## SpamThrottle
+Version: Vanilla_1.12<br>
+Blendet Goldseller- und Levelingwerbung aus<br>
+Befehl: /*st*<br>
 ## TinyTip + TinyTipExtras + TinyTipOptions
 Adds reaction coloring, unit class / classification, race, and optionally pvp rank and guild to your tooltip. Default is stuck-to-mouse anchoring. Also ToT info and more. It's what Thrae wants in a tooltip.<br>
 <img src="https://image.ibb.co/nFkSha/tinytip1.jpg" width="300"/><img src="https://image.ibb.co/nJXJoF/tinytip2.jpg"/>
